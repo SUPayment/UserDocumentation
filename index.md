@@ -1,1 +1,7 @@
-# WELCOME
+# INTRODUCTION
+
+SUPayment is an intra-university payment system that utilizes blockchain and web3 technologies. It allows for easier value transfer between students and facilities on campus and broadens the scope of in-campus applications available in the future, such as kickstarters, marketplaces, and charities. With the introduction of SUCoin, a stablecoin backed and pegged by the Turkish Lira equivalent, SUPayment will make transferring value frictionless. 
+ 
+Due to the novelty of blockchain and web3 technologies, there is a gap in the literature that studies the applications of these technologies. Many studies focus on the theoretical side of blockchain and distributed systems, but there are still many use cases left to explore. Cryptocurrencies, which are the natural products of blockchains, were thought to be a replacement for fiat payment assets. However, attempts at such applications are usually by commercial companies and not covered in scientific literature. Furthermore, our project will utilize stablecoins, which are an implementation of cryptocurrencies with non-volatile value, thus stable. This is also an unexplored area in the literature that we will attempt to implement in our project. 
+
+The motivation for the SUPayment project is to create an easier way for students to transfer value, such as money, between each other and to facilities on campus. The project aims to utilize blockchain and web3 technologies to achieve this goal and also plans to introduce SUCoin, a stablecoin backed by the Turkish Lira, to make value transfer even more frictionless. In addition to facilitating value transfer, the project hopes to enable a wider range of in-campus applications, such as kickstarters, marketplaces, and charities. 
