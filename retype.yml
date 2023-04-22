@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: https://supayment.github.io/
 branding:
-  title: Project Name
+  title: SUPayment
   label: Docs
 links:
 - text: Getting Started
