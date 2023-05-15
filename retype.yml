@@ -3,7 +3,7 @@ output: .retype
 url: https://supayment.github.io/
 branding:
   title: SUPayment
-  label: Docs
+  label: User Docs
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
