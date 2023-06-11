@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://supayment.github.io/sitemap.xml.gz
+Sitemap: https://supayment.github.io/UserDocumentation/sitemap.xml.gz
